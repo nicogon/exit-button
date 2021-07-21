@@ -1,8 +1,8 @@
-# Google meet leave meeting button
+# Google meet exit button
 
 ![Demo](demo.gif)
 
-Files for building your own Single-button "keyboard" to leave any Zoom meetings with violence. (And also lock your computer with a longer press)
+Files for building your own Single-button "keyboard" to leave any google meetings with violence. (And also lock your computer with a longer press)
 
 ## What it is
 - A single-switch mechanical keyboard a large 3D-printed keycap (panic mushroom lookalike)
